@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uniquedetailing.ru/sitemap.xml

@@ -1,0 +1,18 @@
+{
+  "asset_id": "a4d3f9b1-c57a-4354-bee0-22ab831ff515",
+  "content_type": "video/mp4",
+  "created_at": "2026-07-01T20:42:52Z",
+  "original_filename": "hero.mov",
+  "r2_key": "assets/marketing/hero.mp4",
+  "size": 2142159,
+  "url": "https://pub-d232aa7dc74242bdab9a8077f5ceaefa.r2.dev/assets/marketing/hero.mp4?v=6",
+  "version": 6,
+  "optimized_at": "2026-07-22T00:52:40.000Z",
+  "notes": "Old uniquedetailing.ru hero stolen/regraded as new hero: darkened (~brightness -0.18), 18s, 1280×720. Site also applies CSS blackout overlay.",
+  "archives": {
+    "legacy_clean": "https://pub-d232aa7dc74242bdab9a8077f5ceaefa.r2.dev/assets/marketing/hero-legacy.mp4",
+    "legacy_src": "https://pub-d232aa7dc74242bdab9a8077f5ceaefa.r2.dev/assets/marketing/hero-legacy-src.mp4",
+    "img7432": "https://pub-d232aa7dc74242bdab9a8077f5ceaefa.r2.dev/assets/marketing/hero-img7432.mp4",
+    "img7432_source": "https://pub-d232aa7dc74242bdab9a8077f5ceaefa.r2.dev/assets/IMG_7432.MP4"
+  }
+}
